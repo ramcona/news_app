@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/background_border_abu"
+        android:paddingHorizontal="@dimen/_12sdp"
+        android:id="@+id/lin_background"
+        android:paddingVertical="@dimen/_5sdp">
+        <TextView
+            android:id="@+id/tv_title"
+            android:textColor="@color/dark2"
+            style="@style/medium12"
+            android:text="@string/teks_kategori"/>
+    </LinearLayout>
+</layout>

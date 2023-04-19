@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="teks_cari_informasi">Cari Informasi</string>
+    <string name="teks_kategori">Kategori</string>
+    <string name="teks_dummy_news_title">News Title</string>
+    <string name="teks_dummy_description">Description Content</string>
+    <string name="teks_views">%d Dilihat</string>
+    <string name="teks_informasi">Informasi</string>
+</resources>
